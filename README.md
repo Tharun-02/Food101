@@ -1,2 +1,2 @@
 # Food101
-## Image classification of 101 classes of food
+## Image classification for 101 classes of food.
